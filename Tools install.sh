@@ -1,8 +1,8 @@
 ##########################################################
 # Author     : Billal { AiFaL_404		#
-# Name Tools : MyTools				    #
-# Version    : 1.0					    #
-# Code       : rooted@AiFaL_404		    #
+# Name Tools : MyTools				#
+# Version    : 1.0					
+# Code       : rooted@AiFaL_404		        #
 ##########################################################
 # [!] Gunakan Dengan Bijak Jangan SalahKan Tools Ini [!] #
 ##########################################################
